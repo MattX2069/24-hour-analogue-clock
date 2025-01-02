@@ -7,6 +7,7 @@ On Windows:
 - Open CMD and type `python`.
 - You'll be redirected to the MS Store and be shown a window where you can download Python.
 - After the installation, head back into CMD and type `python -m pip install pygame`.
+- If that fails, try `py -m pip install pygame` instead.
 - If you see a message indicating a successful installation, you can verify it by running the following command to check the Pygame version: `python -m pygame --version`.
 
 Now that Pygame is installed, you can go to the code. Expect updates!
