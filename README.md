@@ -1,5 +1,5 @@
 # MUST READ!
-This analogue clock with digital hands shows the time in a 24-hour format. It's a simple project I'm working so I have an excuse to keep coding.
+This analogue clock with digital hands shows the time in a 24-hour format. It's a simple project I'm working on so I have an excuse to keep coding.
 
 This program will use the language Python and the library Pygame. I am currently working on a web version as well.
 
