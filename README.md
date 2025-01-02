@@ -1,2 +1,13 @@
-# 24-hour-analogue-clock
-An analogue clock but with digital hands that show the time in 24-hour format.
+# MUST READ!
+This analogue clock with digital hands shows the time in a 24-hour format.
+
+This program will use the language Python and the library Pygame.
+Make sure you have Python installed:
+
+On Windows:
+- Open CMD and type `python`.
+- You'll be redirected to the MS Store and be shown a window where you can download Python.
+- After the installation, head back into CMD and type `python -m pip install pygame`.
+- If you see a message indicating a successful installation, you can verify it by running the following command to check the Pygame version: `python -m pygame --version`.
+
+Now that Pygame is installed, you can go to the code.
