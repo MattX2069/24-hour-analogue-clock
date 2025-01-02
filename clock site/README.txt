@@ -1,0 +1,2 @@
+- The folder "python" has the code for the clock's python program.
+- The folder "web" has the code for the clock's web version of the program, which i am still working on.
